@@ -1,6 +1,6 @@
 void main() {
-  final String nome = 'Enzo Gabriel da Rocha Santos';
-  int idade = 21;
+  final String nome = 'Jorge de Sousa Paes';
+  int idade = 18;
   const bool ehNovato = true;
   double peso = 62.5;
   final List<int> notas = [3, 4, 5, 6];
